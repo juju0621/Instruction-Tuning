@@ -11,7 +11,7 @@ bash ./run_train.sh
 ```
 # Testing
 ```
-bash ./run_test.sh <data file> <output file>
+bash ./run_test.sh <model path> <peft path> <data file> <output file>
 ```
 # Acknowledgement
 Hugging Face repo:<br>
